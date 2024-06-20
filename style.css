@@ -125,6 +125,7 @@ a{
     }
     .mobile{
         display: block;
+        width: 100%;
     }
     .imge {
         display: none;
